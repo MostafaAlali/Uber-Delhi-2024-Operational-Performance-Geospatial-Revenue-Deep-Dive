@@ -3,6 +3,7 @@
 The ride hailing platform needs to optimize its pricing and operations. Although the system handles a high volume of trips, revenue per ride does not scale well with distance, leading to inefficient pricing. In addition, demand varies significantly by hour and location, causing peak time congestion and off peak underutilization. The company requires data driven insights to improve pricing, balance supply and demand, and increase overall operational efficiency.
 
 ---
+<img width="1366" height="741" alt="dashboard" src="https://github.com/user-attachments/assets/fcbcf0d5-acef-4c76-a192-5f1eb97bb7e9" />
 
 
 ---
